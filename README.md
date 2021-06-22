@@ -11,9 +11,9 @@ Currently working on some private projects
 ![](https://img.shields.io/badge/Environment-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=red)
 
 ## 📫 Contact
-[![Instagram Badge](https://img.shields.io/badge/-@higordiasz-6633cc?style=flat&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/higordiasz/)](https://www.instagram.com/higordiasz/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Higor%20Dias-6633cc?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higordiasz/)](https://www.linkedin.com/in/higordiasz/) 
-[![Gmail Badge](https://img.shields.io/badge/-higordiaszuqueto@gmail.com@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:higordiaszuqueto@gmail.com)](mailto:higordiaszuqueto@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@higordiasz?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/higordiasz/)](https://www.instagram.com/higordiasz/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Higor%20Dias?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higordiasz/)](https://www.linkedin.com/in/higordiasz/) 
+[![Gmail Badge](https://img.shields.io/badge/-higordiaszuqueto@gmail.com@gmail.com?style=flat&logo=Gmail&logoColor=white&link=mailto:higordiaszuqueto@gmail.com)](mailto:higordiaszuqueto@gmail.com)
 
 ## &#x1f4c8; GitHub Stats
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=higordiasz&show_icons=true"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordiasz&langs_count=5&layout=compact">
