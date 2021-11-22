@@ -18,6 +18,6 @@ Currently working on some private projects
 [![Gmail Badge](https://img.shields.io/badge/-higordiaszuqueto@gmail.com-informational?style=flat&logo=Gmail&logoColor=white&color=red&link=mailto:higordiaszuqueto@gmail.com)](mailto:higordiaszuqueto@gmail.com)
 
 ## &#x1f4c8; GitHub Stats
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=higordiasz&show_icons=true&theme=vision-friendly-dark"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordiasz&langs_count=5&layout=compact">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=higordiasz&show_icons=true&theme=vision-friendly-dark"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordiasz&langs_count=5&layout=compact&theme=vision-friendly-dark">
 
 <img style="margin-left: auto;margin-right: auto;" heicht="160" src="http://github-readme-streak-stats.herokuapp.com?user=higordiasz&theme=great-gatsby&hide_border=true&date_format=j%20M%5B%20Y%5D">
