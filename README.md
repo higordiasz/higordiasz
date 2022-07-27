@@ -16,6 +16,7 @@ Currently working on some private projects
 [![Instagram Badge](https://img.shields.io/badge/-@higordiasz-informational?style=flat&logo=instagram&logoColor=white&color=red&link=https://www.instagram.com/higordiasz/)](https://www.instagram.com/higordiasz/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Higor%20Dias-informational?style=flat&logo=Linkedin&logoColor=white&color=red&link=https://www.linkedin.com/in/higordiasz/)](https://www.linkedin.com/in/higordiasz/) 
 [![Gmail Badge](https://img.shields.io/badge/-higordiaszuqueto@gmail.com-informational?style=flat&logo=Gmail&logoColor=white&color=red&link=mailto:higordiaszuqueto@gmail.com)](mailto:higordiaszuqueto@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-DzCommunity-informational?style=flat&logo=Discord&logoColor=white&color=red&link=https://discord.gg/sYeya7g)](https://discord.gg/sYeya7g)
 
 ## &#x1f4c8; GitHub Stats
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=higordiasz&show_icons=true&theme=vision-friendly-dark"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordiasz&langs_count=5&layout=compact&theme=vision-friendly-dark">
