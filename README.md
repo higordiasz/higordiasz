@@ -4,7 +4,7 @@
 
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Higor, more known as "Dias". I'm from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brasil</b> and right now i'm studying mobile developement. <br>
+My name is Higor, more known as "Dias". I'm from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brazil</b> and right now i'm studying mobile developement. <br>
 Currently working on some private projects
 
 ## 🔧 Technologies
