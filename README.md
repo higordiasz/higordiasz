@@ -44,11 +44,6 @@ Right now, I’m building projects that better represent my professional focus:
 - business-oriented backend services
 - portfolio projects with production-minded structure
 
-## Find me
-
-- LinkedIn: [linkedin.com/in/higordiasz](https://www.linkedin.com/in/higordiasz/)
-- GitHub: [github.com/higordiasz](https://github.com/higordiasz)
-
 ---
 
 Thanks for visiting my profile.
