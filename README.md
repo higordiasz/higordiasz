@@ -1,22 +1,54 @@
-![](https://komarev.com/ghpvc/?username=higordiasz&color=red)
+# Hi, I'm Higor Dias 👋
 
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+Backend Developer focused on building reliable software for real business operations.
 
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I work mainly with **C#/.NET** and **Node.js/TypeScript**, building **REST APIs**, **ERP features**, **fiscal integrations** (**NFSe**, **NFe**, **NFC-e**), automation tools, and backend systems that need to be maintainable and production-ready.
 
-My name is Higor, more known as "Dias". I'm from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brazil</b> and right now i'm studying mobile developement. <br>
-Currently working on some private projects
+## What I focus on
 
-## 🔧 Technologies
-![](https://img.shields.io/badge/Code-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=red)
-![](https://img.shields.io/badge/Environment-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=red)
+- Backend development with **C#/.NET**
+- **Node.js** and **TypeScript** services
+- **REST APIs** and integrations
+- **SQL Server** and business data workflows
+- **ERP** and fiscal/document workflows
+- Internal tools, automation and maintainable software architecture
 
-## 📫 Contact
-[![Instagram Badge](https://img.shields.io/badge/-@higordiasz-informational?style=flat&logo=instagram&logoColor=white&color=red&link=https://www.instagram.com/higordiasz/)](https://www.instagram.com/higordiasz/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Higor%20Dias-informational?style=flat&logo=Linkedin&logoColor=white&color=red&link=https://www.linkedin.com/in/higordiasz/)](https://www.linkedin.com/in/higordiasz/) 
-[![Gmail Badge](https://img.shields.io/badge/-higordiaszuqueto@gmail.com-informational?style=flat&logo=Gmail&logoColor=white&color=red&link=mailto:higordiaszuqueto@gmail.com)](mailto:higordiaszuqueto@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-DzCommunity-informational?style=flat&logo=Discord&logoColor=white&color=red&link=https://discord.gg/sYeya7g)](https://discord.gg/sYeya7g)
+## Featured work
 
-## &#x1f4c8; GitHub Stats
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=higordiasz&show_icons=true&theme=vision-friendly-dark"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higordiasz&langs_count=5&layout=compact&theme=vision-friendly-dark">
+### NFSe Nacional SDK for .NET
+Open-source SDK for Brazil's NFSe National Standard, focused on clean integration, XML handling, transport, and document lifecycle workflows.
+
+### Backend systems and integrations
+I’m especially interested in backend projects involving:
+- fiscal integrations
+- ERP/business rules
+- licensing and activation
+- service-to-service communication
+- document processing flows
+
+## Tech stack
+
+- **C# / .NET**
+- **Node.js / TypeScript**
+- **SQL Server**
+- **REST APIs**
+- **XML / JSON**
+- **GitHub Actions**
+- **Software architecture and reusable libraries**
+
+## Current direction
+
+Right now, I’m building projects that better represent my professional focus:
+- reusable backend libraries
+- fiscal/document integration SDKs
+- business-oriented backend services
+- portfolio projects with production-minded structure
+
+## Find me
+
+- LinkedIn: [linkedin.com/in/higordiasz](https://www.linkedin.com/in/higordiasz/)
+- GitHub: [github.com/higordiasz](https://github.com/higordiasz)
+
+---
+
+Thanks for visiting my profile.
